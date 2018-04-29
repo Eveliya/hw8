@@ -5,3 +5,5 @@
 
  #### Бонусная часть:
 https://eveliya.github.io/Sigma/.
+
+репозиторий с файлами бонусной части - https://github.com/Eveliya/Sigma
